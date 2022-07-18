@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project was to collect and analyze world wide weather data for PlanMyTrip to use to recommend ideal hotels based on clients' weather preferences, and to ultimately build an algorithm that will provide custom itineraries to clients on an ad hoc basis.
+The purpose of this project was to collect and analyze worldwide weather data for PlanMyTrip to use to recommend ideal hotels based on clients' weather preferences, and to ultimately build an algorithm that will provide custom itineraries to clients on an ad hoc basis.
 
 ### Method
 
@@ -66,5 +66,5 @@ Create a heatmap with pop-up markers that can display information on specific ci
 
 ## Challenge Ask
 
-The beta tests were positive on the PlanMyTrip app, and they asked that we build upon our success by making new modifications. We were asked to build an algorith that would allow for the client to input their individual preferences on weather conditions in order to narrow down the search for hotels in the desired areas. In addition, we would provide visual outputs with markers and travel directions between the cities included in their itinerary packets. The sample provided filtered on max and min temperatures, but the algorithm can now easily be revised to filter on other weather preferences.
+The beta tests were positive on the PlanMyTrip app, and they asked that we build upon our success by making new modifications. We were asked to build an algorithm that would allow the client to input their individual preferences on weather conditions in order to narrow down the search for hotels in the desired areas. In addition, we would provide visual outputs with markers and travel directions between the cities that would be included in their itinerary packages. The sample provided filtered on maximum and mininimum acceptable temperatures, but the algorithm can now easily be adjusted to filter on other weather preferences.
 
